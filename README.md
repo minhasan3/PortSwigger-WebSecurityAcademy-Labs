@@ -8,13 +8,13 @@ I am learning Web Application Security through Web Security Academy to get a bet
 Please report any issues with the write up to https://github.com/minhasan3/PortSwigger-WebSecurityAcademy-Labs/issues
 
 ##Content 
-- []Cross Site Scripting
-- []CSRF
-- []ClickJacking
-- []File Upload
-- []Insecure Deserialization
-- []SQLXX
-- []SSRF
-- []XXE
-- []Information Disclosure
+- [ ]Cross Site Scripting
+- [ ]CSRF
+- [ ]ClickJacking
+- [ ]File Upload
+- [ ]Insecure Deserialization
+- [ ]SQL Injection
+- [ ]SSRF
+- [ ]XXE
+- [ ]Information Disclosure
 
