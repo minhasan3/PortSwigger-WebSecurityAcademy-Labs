@@ -13,8 +13,8 @@ Please report any issues with the write up to https://github.com/minhasan3/PortS
 - [ ]ClickJacking
 - [ ]File Upload
 - [ ]Insecure Deserialization
-- [ ]SQL Injection
-- [ ]SSRF
+- [x] SQL injection 
+- [x] SSRF Labs
 - [ ]XXE
 - [ ]Information Disclosure
 
